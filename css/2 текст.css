@@ -1,0 +1,116 @@
+/*
+EOT - Embedded Open Type,
+TTF - True Type,
+OTF - Open Type,
+WOFF/WOFF2 - Web Open Font,
+SVG - Scalable Vector Graphic
+*/
+
+/*
+key words
+#xxxxxx (#xxx)
+RGB - Red/Green/Blue,
+RGBA - Red/Green/Blue/Alpha,
+HSL - Hue/Saturation/Lightness(luminance),
+HSLA - Hue/Saturation/Lightness(luminance)/Alpha
+*/
+
+/*
+xx-small, x-small, small, medium, large, x-large, xx-large
+%
+px
+em
+rem
+vh, vw, vmin, vmax
+*/
+
+@font-face {
+    font-family: ;
+    font-style: ;
+    font-weight: ;
+    font-display: ;
+    src: local(),
+        url() format();
+    unicode-range: ;
+}
+
+.fonts {
+    font: ;
+    font-family: ;
+    font-style: ;
+    font-weight: ;
+    font-size: ;
+    font-variant: ;
+
+    font-stretch: ;
+    font-size-adjust: ;
+    font-synthesis: ;
+
+    font-kerning: ;
+    font-variant-ligatures: ;
+    font-variant-position: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-feature-settings: ;
+
+    color: ;
+    letter-spacing: ;
+    word-spacing: ;
+    line-height: ;
+
+    text-transform: ;
+    text-decoration: ;
+        text-decoration-line: ;
+        text-decoration-style: ;
+        text-decoration-color: ;
+        text-decoration-skip: ;
+        text-decoration-skip-ink: ;
+        text-underline-position: ;
+    text-shadow: ;
+    text-align: ;
+        text-align-all: ;
+        text-align-last: ;
+        text-justify: ;
+    text-indent: ;
+    text-overflow: ;
+    
+    vertical-align: ;
+    white-space: ;
+
+    list-style: ;
+        list-style-type: ;
+        list-style-position: ;
+        list-style-image: ;
+
+    counter-reset: ;
+    counter-increment: ;
+    content: counter();
+    content: counters();
+
+
+    tab-size: ;
+    caret-color: ;
+    
+    resize: ;
+    
+    quotes: ;
+    hanging-punctuation: ;
+  
+    overflow-wrap: ;
+    word-wrap: ;
+    word-break: ;
+    line-break: ;
+    hyphens: ;
+
+    text-emphasis: ;
+    text-emphasis-color: ;
+    text-emphasis-position: ;
+    text-emphasis-style: ;
+
+    writing-mode: ;
+    direction: ;
+    text-orientation: ;
+    unicode-bidi: ;
+    text-combine-upright: ;
+}

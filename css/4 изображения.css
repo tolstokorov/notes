@@ -1,0 +1,61 @@
+.img {
+  background-color: ;
+  background-clip: ;
+  background: ;
+  background-image: url();
+  background-repeat: ;
+  background-position: ;
+  background-attachment: ;
+  background-origin: ;
+  background-size: ;
+
+  background-blend-mode: ;
+  mix-blend-mode: ;
+  isolation: ;
+  
+
+  object-fit: ;
+  object-position: ;
+  
+  image-orientation: ;
+  image-rendering: ;
+  image-resolution: ;
+
+
+
+  mask: ;
+  mask-border: ;
+  mask-border-mode: ;
+  mask-border-outset: ;
+  mask-border-repeat: ;
+  mask-border-slice: ;
+  mask-border-source: ;
+  mask-border-width: ;
+  mask-clip: ;
+  mask-composite: ;
+  mask-image: ;
+  mask-mode: ;
+  mask-origin: ;
+  mask-position: ;
+  mask-repeat: ;
+  mask-size: ;
+  mask-type: ;
+
+
+  
+  shape-image-threshold: ;
+  shape-margin: ;
+  shape-outside: ;
+
+
+  /* svg, canvas и вообще я не понял что*/
+  clip: ;
+  clip-path: ;
+  clip-rule: ;
+  flood-color: ;
+  flood-opacity: ;
+  lighting-color: ;
+  color-interpolation-filters: ;
+  glyph-orientation-vertical: ;
+  globalcompositeoperation: ;
+}

@@ -1,0 +1,21 @@
+WET - Write Everything Twice
+vs
+DRY - Don’t Repeat Youself / DIE - Duplication Is Evil - (не дублируй код)
+
+
+KISS - Keep It Simple, Stupid /
+	Keep It Simple, Silly /
+	Keep It Simple and Straightforward /
+	Keep It Short and Simple /
+	Keep It Small and Simple - (не усложняй; меньше абстракций; optional: велосипеды в продакшине - зло)
+
+YAGNI - You Ain’t Gonna Need It - (не делай излишний функционал, преждевременные оптимизации)
+
+SOLID (про ооп):
+	Single responsibility principle - принцип единственной ответственности;
+	Open/closed principle - принцип открытости (для расширения) / закрытости (для изменения);
+	Liskov substitution principle - принцип подстановки Барбары Лисков; (можно использовать детей, как родителя)
+	Interface segregation principle - принцип разделения интерфейса; (большое и сложное дроби на малое и понятное)
+	Dependency inversion principle - принцип инверсии зависимостей; (родители не зависят от детей)
+
+TMTOWTDI (Perl, произносится:Тим Тоуди) - There Is More Than One Way To Do It

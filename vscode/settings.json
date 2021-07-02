@@ -1,0 +1,42 @@
+{
+    "window.restoreWindows": "none",
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "npm.packageManager": "npm",
+    "npm.enableRunFromFolder": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.confirmSync": false,
+    "cSpell.language": "en, ru",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "cSpell.userWords": [
+        "unfollow"
+    ],
+    "terminal.integrated.shellArgs.windows": [
+        "--login"
+    ],
+    "liveServer.settings.donotVerifyTags": true,
+    "files.associations": {
+        "*.js": "javascript",
+        "*.js.snap": "javascript"
+    },
+    "workbench.iconTheme": "file-icons",
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.enableFiletypes": [
+        "mdx"
+    ],
+    "files.autoSave": "afterDelay"
+}

@@ -1,0 +1,118 @@
+.etc {
+  content: ;
+
+  all: ;
+
+  contain: ;
+
+  will-change: ;
+}
+
+.ui {
+  outline: ;
+  outline-style: ;
+  outline-width: ;
+  outline-color: ;
+  outline-offset: ;
+
+  cursor: ;
+}
+
+.fragmentation {
+  box-decoration-break: ;
+  
+  page-break-after: ;
+  page-break-inside: ;
+  page-break-before: ;
+
+  break-before: ;
+  break-after: ;
+  break-inside: ;
+
+  orphans: ;
+  widows: ;
+}
+
+.multicol {
+  columns: ;
+  column-count: ;
+  column-width: ;
+  column-gap: ;
+  column-rule: ;
+  column-rule-color: ;
+  column-rule-style: ;
+  column-rule-width: ;
+
+  column-span: ;
+  column-fill: ;
+}
+
+.scroll {
+  scroll-margin: ;
+  scroll-margin-block: ;
+  scroll-margin-block-end: ;
+  scroll-margin-block-start: ;
+  scroll-margin-bottom: ;
+  scroll-margin-inline: ;
+  scroll-margin-inline-end: ;
+  scroll-margin-inline-start: ;
+  scroll-margin-left: ;
+  scroll-margin-right: ;
+  scroll-margin-top: ;
+
+  scroll-padding: ;
+  scroll-padding-block: ;
+  scroll-padding-block-end: ;
+  scroll-padding-block-start: ;
+  scroll-padding-bottom: ;
+  scroll-padding-inline: ;
+  scroll-padding-inline-end: ;
+  scroll-padding-inline-start: ;
+  scroll-padding-left: ;
+  scroll-padding-right: ;
+  scroll-padding-top: ;
+
+  scroll-snap-align: ;
+  scroll-snap-stop: ;
+  scroll-snap-type: ;
+}
+
+.voice {
+  voice-balance: ;
+  voice-duration: ;
+  voice-family: ;
+  voice-pitch: ;
+  voice-range: ;
+  voice-rate: ;
+  voice-stress: ;
+  voice-volume: ;
+
+  speak: ;
+  speak-as: ;
+  speak-header: ;
+  speak-numeral: ;
+  speak-punctuation: ;
+  speech-rate: ;
+
+  pause: ;
+  pause-after: ;
+  pause-before: ;
+
+  rest: ;
+  rest-after: ;
+  rest-before: ;
+
+  cue: ;
+  cue-after: ;
+  cue-before: ;
+
+  play-during: ;
+  azimuth: ;
+  elevation: ;
+  pitch: ;
+  pitch-range: ;
+  stress: ;
+  richness: ;
+
+  volume: ;
+}

@@ -1,0 +1,39 @@
+.fififi {
+  transform: rotate(), scale() translate() skew() matrix();
+  transform-origin: ;
+  transform-box: ;
+  
+  transition: ;
+  transition-property: ;
+  transition-duration: ;
+  transition-timing-function: steps() step-start step-end 
+    cubic-bezier(n,n,n,n) linear ease ease-in ease-out ease-in-out;
+  transition-delay: ;
+
+  animation: ;
+  animation-name: ;
+  animation-duration: ;
+  animation-timing-function: ;
+  animation-delay: ;
+  animation-iteration-count: ;
+  animation-direction: ;
+  animation-fill-mode: ;
+  animation-play-state: ;
+}
+
+@keyframes xxx {
+  from {
+  }
+
+  to {
+  }
+}
+
+.y3d {
+  perspective: ;
+  perspective-origin: ;
+
+  transform-style: preserve-3d;
+
+  backface-visibility: ;
+}

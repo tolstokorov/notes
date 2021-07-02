@@ -1,0 +1,25 @@
+.flex {
+  flex-flow: ;
+    flex-direction: ;
+    flex-wrap: ;
+
+    
+  place-content: ;
+  place-items: ;
+  place-self: ; 
+  
+  justify-content: ;
+  justify-items: ;
+  justify-self: ;
+
+  align-content: ;
+  align-items: ;
+  align-self: ;
+
+  order: ;
+
+  flex: ;
+    flex-grow: ;
+    flex-shrink: ;
+    flex-basis: ;
+}
